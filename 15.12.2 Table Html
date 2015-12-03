@@ -1,0 +1,26 @@
+<!Doctype html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	  <title> Server Bay Monitor </title>
+	</head>
+	<body>
+	  <table border = “1px”>
+	    <t head>
+	      <tr>
+	        <th colspan “7”> Server Bay Monitor </th>
+	      </tr>
+	      <tr>
+			<th> I.P. Address </th>
+			<th> Location </th>
+			<th> Date Serviced </th>
+			<th> 1 Hour </th>
+			<th> 2 Hour </th>
+			<th> 4 Hour </th>
+			<th> Time Variable </th>
+	      </tr>
+	    </thead>
+	    <tbody>
+	      <tr>
+		<td>
+</html>
