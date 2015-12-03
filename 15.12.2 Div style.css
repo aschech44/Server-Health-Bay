@@ -1,0 +1,36 @@
+.container {
+	border: solid black 2px;
+	min-height: 300px;
+	border-radius: 6px;
+
+}
+.topRow {
+	border-style: solid;
+    border-bottom: solid black 1px;
+	background-color: #7065ab; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.universalsearch {
+	border-radius: 6px;
+	margin-top: 10px;
+	margin-left: 10px;
+	display: inline-block;
+	float: left;
+}
+h4 {
+	text-align: right;	
+	display: inline-block;
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	color: #b5dabd;
+
+}
+
+.col {
+	width: 15%;
+	display: inline;
+}
